@@ -6,5 +6,9 @@ public class Calculator {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void add(){
+	
+	}
 
 }
