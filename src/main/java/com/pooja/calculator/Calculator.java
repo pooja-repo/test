@@ -7,5 +7,9 @@ public class Calculator {
 		System.out.println(); 
 
 	}
+	
+	public void add(){
+	
+	}
 
 }
